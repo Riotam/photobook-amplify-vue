@@ -1,5 +1,7 @@
 # photobook-amplify-vue
 
+https://youtu.be/w0p7ywfHesw
+
 ## Project setup
 ```
 npm install
